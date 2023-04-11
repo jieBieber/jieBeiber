@@ -1,5 +1,9 @@
 [![Jiebieber's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=jiebieber&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/jieBieber)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **jiebieber/Jiebieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
