@@ -1,5 +1,8 @@
 [![Jiebieber's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=jiebieber&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/jieBieber)
 
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+<div align="right"> <img src="https://blog.csdn.net/qq_53960242?spm=1000.2115.3001.5343" /> </div>
+
 <!--
 **jiebieber/Jiebieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
